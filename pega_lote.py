@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-url_dealer = 'https://api.geru.com.br/dealer/v1'
+url_dealer = ''
 
 dealers = {'geru':''}
 
